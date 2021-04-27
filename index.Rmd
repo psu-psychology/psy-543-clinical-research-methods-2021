@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
 
 ## Acknowledgements
 
-- Thank you to NICHD, NIMH, NIDA, NIH, NSF, the Alfred P. Sloan Foundation, the James S. McDonnell Foundation, and the John S. Templeton Foundation
+- Thank you to NICHD, NIMH, NIDA, NIH, NSF, the Alfred P. Sloan Foundation, the James S. McDonnell Foundation, the LEGO Foundation, and the John S. Templeton Foundation
 
 ## Agenda
 
@@ -38,6 +38,16 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE,
 - An open science future
 
 # Prelude
+
+---
+
+```{r, fig.cap="[Sah et al., 2020](https://doi.org/10.1128/MRA.00169-20)"}
+knitr::include_graphics("img/covid-19-genome.png")
+```
+
+```{r}
+knitr::include_graphics("img/sah-et-al-pub-timeline.png")
+```
 
 ---
 
@@ -274,7 +284,6 @@ knitr::include_graphics("img/botvinick-nezer-nature-2020.png")
 - [OpenNeuro](http://openneuro.org)
 
 ## When to share
-
 
 - Paper goes out for review or is published
     - Some journals in some fields require post-acceptance "verification"
